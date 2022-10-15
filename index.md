@@ -7,3 +7,8 @@
 ![picture of pinapple](https://m.media-amazon.com/images/I/41H9oJ7wdpS._AC_.jpg)
 ```
 <h1> Hello World </h1>
+```
+- [ ] Eat Pastel
+- [ ] Drink wine
+- [ ] Eat Tiramissu
+- [ ] Repeat 
