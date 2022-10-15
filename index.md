@@ -8,7 +8,7 @@
 ```
 <h1> Hello World </h1>
 ```
-- [ ] Eat Pastel
+- [X] Eat Pastel
 - [ ] Drink wine
 - [ ] Eat Tiramissu
 - [ ] Repeat 
